@@ -4,6 +4,7 @@
 
 ## Репозиторий
 
+git@github.com:95yztrnwt5-bit/posmotri-v-okno-ad.git
 
 ## Стек
 - HTML
